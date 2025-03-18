@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class AppBody extends StatefulWidget {
+class AflutterppBody extends StatefulWidget {
   @override
   _AppBodyState createState() => _AppBodyState();
 }
